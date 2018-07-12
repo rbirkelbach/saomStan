@@ -1,4 +1,5 @@
 # saomStan
+  [![Travis build status](https://travis-ci.org/rbirkelbach/saomStan.svg?branch=master)](https://travis-ci.org/rbirkelbach/saomStan)
 
 *This is under development and so far NOT useful at all.*
 
