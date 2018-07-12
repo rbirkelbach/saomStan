@@ -1,3 +1,4 @@
 ^packrat/
 ^\.Rprofile$
 ^LICENSE\.md$
+^\.travis\.yml$

@@ -1,13 +1,14 @@
 Package: saomStan
 Type: Package
-Title: What the Package Does Using Title Case
+Title: Estimate stochastic actor oriented models of network change using stan in the backend.
 Version: 0.1.0
 Date: 2018-07-12
-Author: Robert Birkelbach
-Maintainer: Robert Birkelbach <robert@birkelbach.eu>
-Description: More details about what the package does. See
-        <http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file>
-        for details on how to write this part.
+Authors@R: person(given = "Robert",
+   family = "Birkelbach",
+   email = "robert@birkelbach.eu",
+   role = c("aut", "cre", "cph"),
+   comment = c(ORCID = "0000-0003-0312-2874"))
+Description:  Estimate stochastic actor oriented models of network change using stan in the backend.
 License: GPL-3
 Depends: R (>= 3.5.0)
 Imports: rstan,
