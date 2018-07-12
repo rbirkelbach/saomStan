@@ -1,6 +1,6 @@
 Package: saomStan
 Type: Package
-Title: Estimate stochastic actor oriented models of network change using stan in the backend.
+Title: Estimate stochastic actor oriented models of network change using stan in the backend
 Version: 0.1.0
 Date: 2018-07-12
 Authors@R: person(given = "Robert",
