@@ -1,5 +1,6 @@
 # saomStan
   [![Travis build status](https://travis-ci.org/rbirkelbach/saomStan.svg?branch=master)](https://travis-ci.org/rbirkelbach/saomStan)
+  [![Coverage status](https://codecov.io/gh/rbirkelbach/saomStan/branch/master/graph/badge.svg)](https://codecov.io/github/rbirkelbach/saomStan?branch=master)
   [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 *This is under development and so far NOT useful at all.*
