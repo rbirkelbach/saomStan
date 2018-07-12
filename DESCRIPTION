@@ -1,0 +1,15 @@
+Package: saomStan
+Type: Package
+Title: What the Package Does Using Title Case
+Version: 0.1.0
+Date: 2018-07-12
+Author: Robert Birkelbach
+Maintainer: Robert Birkelbach <robert@birkelbach.eu>
+Description: More details about what the package does. See
+        <http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file>
+        for details on how to write this part.
+License: GPL-3
+Depends: R (>= 3.5.0)
+Imports: rstan,
+         Rcpp
+RoxygenNote: 6.0.1
