@@ -1,3 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 importFrom("stats", "rbinom")
+importFrom("Rcpp", "cpp_object_initializer")
+export("create_example_data")
 

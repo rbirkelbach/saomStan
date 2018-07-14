@@ -18,3 +18,4 @@ name_test <- function(element_number, element_name) {
 name_test(1, "waves")
 name_test(2, "y")
 name_test(3, "n_actors")
+name_test(4, "actor_id")

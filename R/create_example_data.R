@@ -14,7 +14,8 @@ create_example_data <- function(){
 
     networks_dat <- list(waves = length(nw_list),
                          y = nw_list,
-                         n_actors = nrow(network1))
+                         n_actors = nrow(network1),
+                         actor_id = 1:nrow(network1))
     return(networks_dat)
 }
 
